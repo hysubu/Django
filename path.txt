@@ -1,0 +1,15 @@
+Steps =
+=>Create django project (django-admin startproject projectname )
+=>Change Directory to Django (cd projectname)
+=>Create django application (python manag.py startapp appname )
+=>Create Templates ( mkdir templates)
+
+Django
+
+=> open django-project
+=> go to settings.py 
+=> give a templates path 
+syntax:-var = os.path.join('BASE_DIR','templates') 
+
+=> Add/Install application to django project (app to project ) using settingss.py file :-INSTALLED_APP ['appname'
+=>  
