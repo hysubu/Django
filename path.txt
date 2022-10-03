@@ -13,3 +13,4 @@ syntax:-var = os.path.join('BASE_DIR','templates')
 
 => Add/Install application to django project (app to project ) using settingss.py file :-INSTALLED_APP ['appname'
 =>  set templates file 
+=>  set static file 
